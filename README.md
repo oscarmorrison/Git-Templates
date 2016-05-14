@@ -7,3 +7,7 @@ These key documents are:
 ### README.md
 
 The Readme is the first document that is displayed at the Repository level. 
+
+### CONTRIBUTING.md
+
+Contributing is a doc that explains to future contributors how you would like people to contribute.
